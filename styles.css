@@ -65,7 +65,7 @@ table {
   --font: "Inter", sans-serif;
 }
 
-/* GLOBAL STYLES */
+/* GLOBAL STYLES (mobile first/small) */
 .container {
   width: 90%;
   max-width: 1200px;
